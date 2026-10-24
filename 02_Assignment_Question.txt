@@ -1,0 +1,31 @@
+23CSR303 - OBJECT ORIENTED PROGRAMMING WITH JAVA
+Academic Year: 2026-2027
+Assignment: II
+Question Number: 9
+
+"Design and implement a console-based Expense Management app to submit, approve, and reimburse employee expenses using OOP in Java.
+
+Requirements:
+
+1. Create at least 4 classes:
+   - Employee — empId, name, dept, email.
+   - Manager — extends Employee, approvalLimit.
+   - Expense — expenseId, type (Travel/Meals), amount, status, requester.
+   - ExpenseService — submission, approval, reimbursement processing.
+
+2. Each class must include:
+   - At least 4 instance/static variables.
+   - A constructor to initialize values.
+   - At least 5 methods (getters/setters, submit(), approve(), reject(), listByStatus(), calculateTotal()).
+
+3. Demonstrate OOP concepts:
+   - Inheritance → Manager overrides approval behavior.
+   - Method Overloading → submit() with/without attachments/cost center.
+   - Method Overriding → custom approve() logic by manager grade.
+   - Polymorphism → handle Employee/Manager via Employee references.
+   - Encapsulation → restrict direct status/amount edits.
+
+4. Write a Main class (ExpenseAppMain) to test:
+   - Create employees/managers, submit expenses.
+   - Approve/reject, mark reimbursed.
+   - Print per-employee totals and monthly summaries."

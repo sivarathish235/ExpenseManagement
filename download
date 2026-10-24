@@ -1,0 +1,29 @@
+# Compiled Java
+*.class
+bin/
+out/
+target/
+
+# Eclipse metadata (created automatically when you make the project)
+.project
+.classpath
+.settings/
+.metadata/
+.recommenders/
+
+# Other IDEs
+.idea/
+*.iml
+.vscode/
+
+# OS / temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
+*.bak
+hs_err_pid*
+
+# NOTE: src/, docs/, screenshots/ (*.png) and all .md/.txt/.docx files
+# are intentionally NOT ignored - they are part of the submission.
