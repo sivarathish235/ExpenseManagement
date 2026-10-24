@@ -235,10 +235,10 @@ do **not** tick "Add a README"). Copy the HTTPS URL from the green **Code** butt
 
 ## Author
 
-- **Name:** Cibi K.
-- **Register number:** (given in the printed submission)
+- **Name:** SIVARATHISH D
+- **Register number:** 717825F150
 - **Department / Year / Section:** II Year / Information Technology / Sem III / Section A
-- **GitHub:** https://github.com/cibi-k/ExpenseManagementAssignment2
+- **GitHub:** https://github.com/sivarathish235/ExpenseManagement
 
 ## License
 
